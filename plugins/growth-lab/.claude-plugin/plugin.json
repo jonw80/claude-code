@@ -1,0 +1,9 @@
+{
+  "name": "growth-lab",
+  "displayName": "Growth Lab",
+  "version": "1.0.0",
+  "description": "Evidence-driven learning workflow with repository retrieval, adversarial review, falsifiable experiments, bounded iteration, and reusable skill extraction",
+  "author": {
+    "name": "Jonathan Wilson"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claude-code-plugins",
-  "version": "1.0.0",
-  "description": "Bundled plugins for Claude Code including Agent SDK development tools, PR review toolkit, and commit workflows",
+  "version": "1.1.0",
+  "description": "Bundled plugins for Claude Code including Agent SDK development tools, PR review toolkit, commit workflows, and evidence-driven growth tools",
   "owner": {
     "name": "Anthropic",
     "email": "support@anthropic.com"
@@ -79,6 +79,17 @@
       },
       "source": "./plugins/frontend-design",
       "category": "development"
+    },
+    {
+      "name": "growth-lab",
+      "displayName": "Growth Lab",
+      "description": "Evidence-driven learning workflow with repository retrieval, adversarial review, falsifiable experiments, bounded iteration, and reusable skill extraction.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jonathan Wilson"
+      },
+      "source": "./plugins/growth-lab",
+      "category": "learning"
     },
     {
       "name": "hookify",

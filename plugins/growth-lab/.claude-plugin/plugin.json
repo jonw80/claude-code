@@ -1,0 +1,8 @@
+{
+  "name": "growth-lab",
+  "version": "0.1.0",
+  "description": "Evidence-driven agent growth cycles using repository retrieval, independent critique, falsifiable experiments, bounded iteration, and reusable skill extraction",
+  "author": {
+    "name": "jonw80"
+  }
+}
